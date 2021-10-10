@@ -1,8 +1,8 @@
 # Hello everyone!!
-- This is Anvika who is currently pursuing Enginnering.
+- This is Anvika.
 
 -I am currently working on python
--qurious to know about the technology
--working on web developing!!
+-Qurious to know about the technology
+-Working on web developing!!
 
-"MANY MORE TO GO"
+"AND MANY MORE TO GO"
